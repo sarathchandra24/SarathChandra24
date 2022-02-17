@@ -5,7 +5,6 @@
 
 - 📫 How to reach me 
    - email: sarathchandraoruganti@gmail.com
-   - phone: +91 94402 22551
 
 
 
