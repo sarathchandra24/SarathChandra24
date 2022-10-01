@@ -4,7 +4,7 @@
 - 🌱 I’m currently in my Masters with specialization in Data Analytics Engineering
 
 - 📫 How to reach me 
-   - email: sarathchandraoruganti@gmail.com
+   - email: sarathchandraoruganti [at] gmail [dot] com
 
 
 
