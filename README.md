@@ -3,8 +3,7 @@
 - 👀 I’m interested in DevOps, MLOps
 - 🌱 I’m currently in my Masters with specialization in Data Analytics Engineering
 
-- 📫 How to reach me 
-   - email: sarathchandraoruganti [at] gmail [dot] com
+
 
 
 
