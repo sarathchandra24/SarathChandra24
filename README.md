@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @SarathChandra24
 - 👨‍💻 Call me Sarath
 - 👀 I’m interested in DevOps, MLOps
-- 🌱 I’m currently in my Masters with specialization in Data Analytics Engineering
-
 
 
 
